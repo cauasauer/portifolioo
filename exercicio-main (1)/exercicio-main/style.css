@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(0, 174, 255);
+
+    color: rgb(255, 0, 179);
+
+    margin: 0px;
+
+    font-size: 20px; 
+
+    font-weight: 700;
+}
+
+header{
+    padding: 20px;
+
+    border-bottom: 2px solid rgb(rgb(0, 183, 255), rgb(0, 225, 255), rgb(0, 255, 42));
+
+    font-size: 32px;
+
+    color: rgb(rgb(255, 238, 0), rgb(0, rgb(255, 255, 255)), blue)
+}
+
+section {
+   
+    background: rgb(0, 0, 0);
+
+    padding-top: 80px;
+
+    padding-bottom: 80px;
+}
